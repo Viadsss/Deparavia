@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Viadsss/Deparavia-backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Viadsss/Deparavia-frontend.git
+	branch = main
